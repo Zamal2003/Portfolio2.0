@@ -32,19 +32,7 @@ function Projects() {
       description: 'A full-stack task management application built with the MERN stack.The project at /todo-app-steel-three.vercel.app/)Since the specific details of this project (e.g., exact tech stack or unique features) are not available in the provided context, it likely follows the pattern of other minimal Todo apps on Vercel, focusing on simplicity and functionality. For more precise information, visiting the URL or checking its associated GitHub repository (if public) would provide further insights.[](https://next-todo-eight-taupe.vercel.app/)',
       link: 'https://todo-app-my-app.vercel.app/',
     },
-    
-    {
-      title: 'Simple Gallery',
-      image: gallery,
-      description: 'its my first frontend clone web.',
-      link: 'https://simplegallery01.netlify.app/',
-    },
-    {
-      title: 'Amazon clone',
-      image: amazon,
-      description: 'its my first frontend beiggner projects',
-      link: 'https://amazon2-o-jk.vercel.app/',
-    },
+  
   ];
   return (
     <section id="projects" className="bg-gradient-to-r from-blue-500 to-purple-500 py-20">
