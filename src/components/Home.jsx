@@ -44,7 +44,7 @@ function Home() {
          A Full Stack Developer with a passion for crafting dynamic and scalable web applications. I love solving complex problems, optimizing performance, efficient code. Whether it’s front-end interactivity or back-end architecture, I ensure every project is built for excellence.”</p>
         <div className="flex gap-4 w-fit">
   <a
-    href="./Resume..pdf"
+    href="./jamal_resume.pdf"
     className="bg-yellow-400 text-black py-2 px-4 rounded hover:bg-yellow-300 transition text-center ml-12"
     download
   >
